@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning computer science
+- 🤔 I’m looking for help with AI optimization
+- I'm quite proficient in python and web development
 <!--
 **stephen18961/stephen18961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
